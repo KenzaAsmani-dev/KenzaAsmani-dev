@@ -4,7 +4,7 @@
 
 - 🌱 Actuellement, j'apprends **NestJS, Docker, Github actions, Jenkins, Jest, SWAGGER et REDIS**
 
-- 💬 Questionnez-moi en **ReactJS,LARAVEL, MYSQL, MATLAB, JAVASCRIPT et TYPESCRIPT**
+- 💬 Questionnez-moi en **ReactJS, LARAVEL, MYSQL, MATLAB, JAVASCRIPT et TYPESCRIPT**
 
 - 📫 Mon Email **kenzaasmani8@gmail.com**
 
